@@ -1,0 +1,554 @@
+[
+    {
+        "cve": "CVE-2024-47673",
+        "results": [
+            {
+                "interference": "32",
+                "state": "after",
+                "dist_before": 0.6983183026313782,
+                "dist_after": 0.5937764644622803,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "after",
+                "dist_before": 0.6861624717712402,
+                "dist_after": 0.6199501752853394,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "after",
+                "dist_before": 0.3654515743255615,
+                "dist_after": 0.12952886521816254,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "after",
+                "dist_before": 0.3476332128047943,
+                "dist_after": 2.7712812880054116e-05,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "32",
+                "state": "before",
+                "dist_before": 0.690528154373169,
+                "dist_after": 0.773703396320343,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "before",
+                "dist_before": 0.7780271172523499,
+                "dist_after": 0.8017070293426514,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "before",
+                "dist_before": 0.14378571510314941,
+                "dist_after": 0.3583334982395172,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "before",
+                "dist_before": 2.7712812880054116e-05,
+                "dist_after": 0.34763291478157043,
+                "pred_state": "before",
+                "success": "yes"
+            }
+        ]
+    },
+    {
+        "cve": "CVE-2024-47677",
+        "results": [
+            {
+                "interference": "32",
+                "state": "after",
+                "dist_before": 0.29473865032196045,
+                "dist_after": 0.348810613155365,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "arch64",
+                "state": "after",
+                "dist_before": 0.5952323079109192,
+                "dist_after": 0.5875919461250305,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "after",
+                "dist_before": 0.14697010815143585,
+                "dist_after": 0.21143965423107147,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "Os",
+                "state": "after",
+                "dist_before": 0.18700185418128967,
+                "dist_after": 0.20693565905094147,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "32",
+                "state": "before",
+                "dist_before": 0.2736031711101532,
+                "dist_after": 0.3077540695667267,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "before",
+                "dist_before": 0.5803877711296082,
+                "dist_after": 0.5637556314468384,
+                "pred_state": "after",
+                "success": "no"
+            },
+            {
+                "interference": "clang",
+                "state": "before",
+                "dist_before": 0.17475304007530212,
+                "dist_after": 0.19633837044239044,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "before",
+                "dist_before": 0.11622364819049835,
+                "dist_after": 0.13678675889968872,
+                "pred_state": "before",
+                "success": "yes"
+            }
+        ]
+    },
+    {
+        "cve": "CVE-2024-47685",
+        "results": [
+            {
+                "interference": "32",
+                "state": "after",
+                "dist_before": 0.7706319689750671,
+                "dist_after": 0.7757260203361511,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "arch64",
+                "state": "after",
+                "dist_before": 0.8926717638969421,
+                "dist_after": 0.8845676779747009,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "after",
+                "dist_before": 0.30664345622062683,
+                "dist_after": 0.2855651080608368,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "after",
+                "dist_before": 0.1491764783859253,
+                "dist_after": 0.11551325768232346,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "32",
+                "state": "before",
+                "dist_before": 0.7766959071159363,
+                "dist_after": 0.78508460521698,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "before",
+                "dist_before": 0.9107640385627747,
+                "dist_after": 0.902940571308136,
+                "pred_state": "after",
+                "success": "no"
+            },
+            {
+                "interference": "clang",
+                "state": "before",
+                "dist_before": 0.26761630177497864,
+                "dist_after": 0.282090425491333,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "before",
+                "dist_before": 0.11930452287197113,
+                "dist_after": 0.1708022654056549,
+                "pred_state": "before",
+                "success": "yes"
+            }
+        ]
+    },
+    {
+        "cve": "CVE-2024-47688",
+        "results": [
+            {
+                "interference": "32",
+                "state": "after",
+                "dist_before": 0.4958718717098236,
+                "dist_after": 0.4705360531806946,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "after",
+                "dist_before": 0.7047473192214966,
+                "dist_after": 0.6883660554885864,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "after",
+                "dist_before": 0.5903422236442566,
+                "dist_after": 0.608554482460022,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "Os",
+                "state": "after",
+                "dist_before": 0.14000657200813293,
+                "dist_after": 0.1609831601381302,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "32",
+                "state": "before",
+                "dist_before": 0.47442391514778137,
+                "dist_after": 0.45422840118408203,
+                "pred_state": "after",
+                "success": "no"
+            },
+            {
+                "interference": "arch64",
+                "state": "before",
+                "dist_before": 0.7125656604766846,
+                "dist_after": 0.6970642805099487,
+                "pred_state": "after",
+                "success": "no"
+            },
+            {
+                "interference": "clang",
+                "state": "before",
+                "dist_before": 0.5998239517211914,
+                "dist_after": 0.6191577315330505,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "before",
+                "dist_before": 0.15125666558742523,
+                "dist_after": 0.1783866137266159,
+                "pred_state": "before",
+                "success": "yes"
+            }
+        ]
+    },
+    {
+        "cve": "CVE-2024-47693",
+        "results": [
+            {
+                "interference": "32",
+                "state": "after",
+                "dist_before": 0.44546085596084595,
+                "dist_after": 0.4765690565109253,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "arch64",
+                "state": "after",
+                "dist_before": 0.9689932465553284,
+                "dist_after": 1.0243432521820068,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "clang",
+                "state": "after",
+                "dist_before": 0.3581787645816803,
+                "dist_after": 0.20071429014205933,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "after",
+                "dist_before": 0.36253640055656433,
+                "dist_after": 0.2649073898792267,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "32",
+                "state": "before",
+                "dist_before": 0.4895440340042114,
+                "dist_after": 0.5613493919372559,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "before",
+                "dist_before": 0.9597415328025818,
+                "dist_after": 1.0201548337936401,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "before",
+                "dist_before": 0.3216741979122162,
+                "dist_after": 0.23570328950881958,
+                "pred_state": "after",
+                "success": "no"
+            },
+            {
+                "interference": "Os",
+                "state": "before",
+                "dist_before": 0.2954636216163635,
+                "dist_after": 0.3141206204891205,
+                "pred_state": "before",
+                "success": "yes"
+            }
+        ]
+    },
+    {
+        "cve": "CVE-2024-47694",
+        "results": [
+            {
+                "interference": "32",
+                "state": "after",
+                "dist_before": 0.7100583910942078,
+                "dist_after": 0.7095702290534973,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "after",
+                "dist_before": 0.5353254079818726,
+                "dist_after": 0.5443757772445679,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "clang",
+                "state": "after",
+                "dist_before": 0.25358664989471436,
+                "dist_after": 0.26967498660087585,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "Os",
+                "state": "after",
+                "dist_before": 0.2771374583244324,
+                "dist_after": 0.2866503894329071,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "32",
+                "state": "before",
+                "dist_before": 0.44229182600975037,
+                "dist_after": 0.45836445689201355,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "before",
+                "dist_before": 0.5372964143753052,
+                "dist_after": 0.5474184155464172,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "before",
+                "dist_before": 0.2471924126148224,
+                "dist_after": 0.28644829988479614,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "before",
+                "dist_before": 0.2786392569541931,
+                "dist_after": 0.3176729381084442,
+                "pred_state": "before",
+                "success": "yes"
+            }
+        ]
+    },
+    {
+        "cve": "CVE-2024-47720",
+        "results": [
+            {
+                "interference": "32",
+                "state": "after",
+                "dist_before": 0.5342007279396057,
+                "dist_after": 0.6715250015258789,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "arch64",
+                "state": "after",
+                "dist_before": 0.5342007279396057,
+                "dist_after": 0.6715250015258789,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "clang",
+                "state": "after",
+                "dist_before": 0.5074945092201233,
+                "dist_after": 0.2275477796792984,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "after",
+                "dist_before": 0.5326398015022278,
+                "dist_after": 0.1687980443239212,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "32",
+                "state": "before",
+                "dist_before": 0.5352447032928467,
+                "dist_after": 0.7122985124588013,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "before",
+                "dist_before": 0.5352447032928467,
+                "dist_after": 0.7122985124588013,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "before",
+                "dist_before": 0.3373388648033142,
+                "dist_after": 0.5138800740242004,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "before",
+                "dist_before": 0.28739020228385925,
+                "dist_after": 0.5395189523696899,
+                "pred_state": "before",
+                "success": "yes"
+            }
+        ]
+    },
+    {
+        "cve": "CVE-2024-47723",
+        "results": [
+            {
+                "interference": "32",
+                "state": "after",
+                "dist_before": 0.4467129409313202,
+                "dist_after": 0.43234023451805115,
+                "pred_state": "after",
+                "success": "yes"
+            },
+            {
+                "interference": "arch64",
+                "state": "after",
+                "dist_before": 0.7752821445465088,
+                "dist_after": 0.8049126863479614,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "clang",
+                "state": "after",
+                "dist_before": 0.5795339941978455,
+                "dist_after": 0.6566246151924133,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "Os",
+                "state": "after",
+                "dist_before": 0.16337789595127106,
+                "dist_after": 0.22159411013126373,
+                "pred_state": "before",
+                "success": "no"
+            },
+            {
+                "interference": "32",
+                "state": "before",
+                "dist_before": 0.4339158236980438,
+                "dist_after": 0.39772936701774597,
+                "pred_state": "after",
+                "success": "no"
+            },
+            {
+                "interference": "arch64",
+                "state": "before",
+                "dist_before": 0.7594437003135681,
+                "dist_after": 0.7961465120315552,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "clang",
+                "state": "before",
+                "dist_before": 0.45113691687583923,
+                "dist_after": 0.5406356453895569,
+                "pred_state": "before",
+                "success": "yes"
+            },
+            {
+                "interference": "Os",
+                "state": "before",
+                "dist_before": 0.19771647453308105,
+                "dist_after": 0.21820203959941864,
+                "pred_state": "before",
+                "success": "yes"
+            }
+        ]
+    }
+]
